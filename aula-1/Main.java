@@ -1,7 +1,11 @@
+import java.util.Scanner
 public class Main
 {
 	public static void main(String[] args) {
-        // Escreva seu código aqui ⬇️
-		System.out.println("Hello World");
+
+
+  boolean Kauan = "Kauan" == "Márcia";
+  if {
+  System.out.println()
 	}
 }
